@@ -7,7 +7,7 @@
           uncovering new and cool ways to simplify tasks and automate them.
           
 - 🌱 I learned basic C++ in high school. From there I wanted to learn Python which resulted in me writing many 
-          programs as a hands-on way to learn. For the future, I would like to learn Java (wish me luck) and QCL.
+          programs as a hands-on way to learn.
           
 - 💞️ Hopefully I’ll be able to soon collaborate with other ambitious coders to create fascinating applications. 
           I’m opened to meeting new people and chatting about ideas and methods to better my code or provide 
