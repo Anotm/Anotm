@@ -6,7 +6,7 @@
           school, work, or fun projects. I love throwing myself into a project and learning as I go, 
           uncovering new and cool ways to simplify tasks and automate them.
           
-- 🌱 I have learned C++, C, Python, Html, CSS, JavaScript, and BF. But my ambitions are to learn many more,
+- 🌱 I have learned C++, C, Python, Html, CSS, JavaScript, Java, and BF. But my ambitions are to learn many more,
           including quantum computing.
           
 - 💞️ Hopefully I’ll be able to soon collaborate with other ambitious coders to create fascinating applications. 
